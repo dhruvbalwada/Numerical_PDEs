@@ -1,5 +1,5 @@
 # Numerical_PDEs
-Some codes I wrote as part of Numerical PDEs course.
+Some codes I wrote as part of a Numerical PDEs course.
 
 
 -Hyperbolic solver
