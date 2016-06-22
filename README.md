@@ -6,13 +6,13 @@ Some codes I wrote as part of a Numerical PDEs course.
 
 -Elliptic solver using:
 
-  -Gauss Seeidel
+	 -Gauss Seeidel
   
-  -conjugate Gradient
+	 -conjugate Gradient
   
-  -SOR
+	 -SOR
   
-  -Multi grid
+	 -Multi grid
   
 -Transfinite interpolation routines
 
