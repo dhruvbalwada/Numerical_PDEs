@@ -1,0 +1,1 @@
+gfortran NODE_CLASS.f90 ELEMENT_CLASS.f90 MESH_CLASS.f90 EDGE_CLASS.f90 LL_RECORD_CLASS.f90 LLIST_CLASS.f90 assign_bc.f90 assign_equations.f90 assign_external_bc.f90 calc_volumes.f90 initialize_problem.f90 find_edge.f90 riemann_solver_linear.f90 write_solution.f90 MAIN_FVM.f90 -L/usr/local/lib -lblas -o test.out 
